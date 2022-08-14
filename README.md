@@ -1,7 +1,8 @@
 # node2vec
 
 ## Notes:
-
+1. Ignore the `requirement.txt` file. Just install with `pip`
+2. If some error showed up with `type map() has no len() ...` in `gensim/models/word2vec.py`, just edit the `gensim/models/word2vec.py` file and change `len(sentence)` to `len(list(sentence))`.
 
 ## This repository is fork from https://github.com/aditya-grover/node2vec
 This repository provides a reference implementation of *node2vec* as described in the paper:<br>
