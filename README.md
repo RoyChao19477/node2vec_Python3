@@ -1,5 +1,9 @@
 # node2vec
 
+## Notes:
+
+
+## This repository is fork from https://github.com/aditya-grover/node2vec
 This repository provides a reference implementation of *node2vec* as described in the paper:<br>
 > node2vec: Scalable Feature Learning for Networks.<br>
 > Aditya Grover and Jure Leskovec.<br>
